@@ -3,11 +3,9 @@
     padding: 0;
 }
 body {
-    background-color:  #1B1A16;
+    background-color: #1B1A16;
     font-family: "Roboto Mono", sans-serif;
-
 }
-
 header {
     height: 6vh;
     margin: 20px;
@@ -23,7 +21,6 @@ header h6 {
 a {
     color: #ff8939;
 }
-
 nav {
     border-top: dashed 1px #C3A5B3;
     border-bottom: dashed 1px #C3A5B3;
@@ -62,4 +59,3 @@ nav ul li a{
     color: #C3A5B3;
     font-family: monospace;
 }
-
